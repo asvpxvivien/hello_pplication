@@ -32,7 +32,7 @@ class ChildThird extends StatelessWidget {
 
               SizedBox(height: 3),
               Text(
-                "www.vivienamagbegnon.com",
+                "www.thisisanexample.com",
                 style: TextStyle(color: Colors.white),
               ),
             ],

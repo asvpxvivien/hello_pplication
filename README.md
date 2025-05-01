@@ -1,16 +1,36 @@
-# hello_pplication
+# 👋 Hello_pplication
 
-A new Flutter project.
+A simple Flutter app built as part of my journey in mobile development.  
+It displays a clean welcome screen with a Flutter logo and developer info.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 App Preview
 
-A few resources to get you started if this is your first Flutter project:
+<img src="https://github.com/asvpxvivien/hello_pplication/blob/main/assets/images/hello_screenshot.png" width="250" />
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## ✨ Features
+
+- Clean welcome UI
+- Flutter logo display
+- Developer footer card
+- Responsive and minimal layout
+
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – Frontend framework  
+- **Dart** – Programming language
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally, make sure you have Flutter installed:
+
+```bash
+flutter pub get
+flutter run

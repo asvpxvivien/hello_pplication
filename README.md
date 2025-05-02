@@ -1,58 +1,58 @@
-
 # 📱 Hello_pplication
 
 ![Hello Vivien App]
 
-**Hello_pplication** est une application mobile Flutter simple et élégante qui affiche un écran de bienvenue personnalisé. Elle a été conçue comme un premier projet pour explorer l’interface Flutter et les bases de la création d’UI modernes.
+**Hello_pplication** is a simple and elegant Flutter mobile app that displays a personalized welcome screen.  
+It was built as an introductory project to explore the Flutter framework and the fundamentals of modern UI creation.
 
 ---
 
-## 🧭 Aperçu
+## 🧭 Overview
 
-Hello_pplication est une app d’accueil développée par Vivien, conçue pour présenter un message de bienvenue propre, une image Flutter centrale et une carte développeur en bas de l'écran.  
-Elle met l’accent sur une interface minimaliste, lisible et responsive.
-
----
-
-## ✨ Fonctionnalités
-
-- 🎨 Interface claire et moderne
-- 💙 Affichage du logo Flutter
-- 🧑‍💻 Carte développeur avec image et contact
-- ⚙️ Application 100% Flutter & Dart
+Hello_pplication is a welcome app, designed to showcase a clean greeting message, a central Flutter image, and a developer card at the bottom of the screen.  
+The focus is on a minimalist, readable, and responsive interface.
 
 ---
 
-## 📸 Capture d'écran
+## ✨ Features
 
-### Écran d'accueil
+- 🎨 Clean and modern UI
+- 💙 Flutter logo display
+- 🧑‍💻 Developer card with image and contact info
+- ⚙️ 100% Flutter & Dart-based
+
+---
+
+## 📸 Screenshot
+
+### Home Screen
 ![Hello Vivien App Screenshot](https://github.com/asvpxvivien/hello_pplication/blob/main/assets/images/hello_screenshot.png)
 
-*Un écran d'accueil simple pour présenter le développeur avec style.*
+*A simple home screen to present the developer with style.*
 
 ---
 
-## 🚀 Installation (Développement local)
+## 🚀 Installation (Local Development)
 
-1. Clonez le projet :
+1. Clone the repository:
    ```bash
    git clone https://github.com/asvpxvivien/hello_pplication.git
    cd hello_pplication
    ```
 
-2. Installez les dépendances :
+2. Install the dependencies:
    ```bash
    flutter pub get
    ```
 
-3. Exécutez l'application :
+3. Run the application:
    ```bash
    flutter run
    ```
 
 ---
 
-## 🗂️ Structure du projet
+## 🗂️ Project Structure
 
 ```
 hello_pplication/
@@ -67,15 +67,15 @@ hello_pplication/
 
 ---
 
-## 👤 Auteur
+## 👤 Author
 
 **Vivien AMAGBEGNON**  
-Flutter Developer 🇧🇯  
+Flutter Developer  
 [GitHub: @asvpxvivien](https://github.com/asvpxvivien)  
-[Portfolio (à venir)](https://www.thisisanexample.com)
+[Portfolio (coming soon)](https://www.thisisanexample.com)
 
 ---
 
-## 📝 Licence
+## 📝 License
 
-Ce projet est open source et distribué sous la licence [MIT](LICENSE).
+This project is open source and distributed under the [MIT License](LICENSE).

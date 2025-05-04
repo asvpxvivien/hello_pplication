@@ -1,7 +1,5 @@
 # 📱 Hello_pplication
 
-![Hello Vivien App]
-
 **Hello_pplication** is a simple and elegant Flutter mobile app that displays a personalized welcome screen.  
 It was built as an introductory project to explore the Flutter framework and the fundamentals of modern UI creation.
 

@@ -62,18 +62,3 @@ hello_pplication/
 ├── pubspec.yaml
 └── README.md
 ```
-
----
-
-## 👤 Author
-
-**Vivien AMAGBEGNON**  
-Flutter Developer  
-[GitHub: @asvpxvivien](https://github.com/asvpxvivien)  
-[Portfolio (coming soon)](https://www.thisisanexample.com)
-
----
-
-## 📝 License
-
-This project is open source and distributed under the [MIT License](LICENSE).

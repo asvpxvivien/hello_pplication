@@ -5,14 +5,14 @@ It was built as an introductory project to explore the Flutter framework and the
 
 ---
 
-## 🧭 Overview
+##  Overview
 
 Hello_pplication is a welcome app, designed to showcase a clean greeting message, a central Flutter image, and a developer card at the bottom of the screen.  
 The focus is on a minimalist, readable, and responsive interface.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🎨 Clean and modern UI
 - 💙 Flutter logo display
@@ -21,16 +21,15 @@ The focus is on a minimalist, readable, and responsive interface.
 
 ---
 
-## 📸 Screenshot
+##  Screenshot
 
 ### Home Screen
-![Hello Vivien App Screenshot](https://github.com/asvpxvivien/hello_pplication/blob/main/assets/images/hello_screenshot.png)
-
+<img src="/assets/images/hello_screenshot.png" width="300">
 *A simple home screen to present the developer with style.*
 
 ---
 
-## 🚀 Installation (Local Development)
+##  Installation (Local Development)
 
 1. Clone the repository:
    ```bash
@@ -50,7 +49,7 @@ The focus is on a minimalist, readable, and responsive interface.
 
 ---
 
-## 🗂️ Project Structure
+## 🗂 Project Structure
 
 ```
 hello_pplication/

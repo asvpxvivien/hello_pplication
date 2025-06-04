@@ -24,8 +24,10 @@ The focus is on a minimalist, readable, and responsive interface.
 ##  Screenshot
 
 ### Home Screen
+<p align = "center">
 <img src="/assets/images/hello_screenshot.png" width="300">
-*A simple home screen to present the developer with style.*
+</p>
+
 
 ---
 

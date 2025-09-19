@@ -1,4 +1,4 @@
-# 📱 Hello_pplication
+#  Hello_pplication
 
 **Hello_pplication** is a simple and elegant Flutter mobile app that displays a personalized welcome screen.  
 It was built as an introductory project to explore the Flutter framework and the fundamentals of modern UI creation.
@@ -14,10 +14,10 @@ The focus is on a minimalist, readable, and responsive interface.
 
 ##  Features
 
-- 🎨 Clean and modern UI
-- 💙 Flutter logo display
-- 🧑‍💻 Developer card with image and contact info
-- ⚙️ 100% Flutter & Dart-based
+-  Clean and modern UI
+-  Flutter logo display
+-  Developer card with image and contact info
+-  100% Flutter & Dart-based
 
 ---
 
@@ -51,7 +51,7 @@ The focus is on a minimalist, readable, and responsive interface.
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 hello_pplication/
@@ -63,5 +63,3 @@ hello_pplication/
 ├── pubspec.yaml
 └── README.md
 ```
-
-© 2025 Created by Vivien
